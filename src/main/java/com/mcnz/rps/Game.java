@@ -8,7 +8,7 @@ public class Game {
 	public static void main(String[] args) {
 		String input = JOptionPane.showInputDialog(prompt);
 		System.out.println("You selected: " + input);
-		System.out.println("You selected:");
+		System.out.println("You selected: Thanks");
 	}
 
 }
